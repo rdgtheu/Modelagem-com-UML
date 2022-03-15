@@ -1,4 +1,4 @@
-# Modelagem-com-UML
+# Modelagem com UML
 ## Repo para Projeto de Modelagem e UML
 <p>Visto que estamos em ano de eleição – E que meu último projeto tá triste – O tema agora é Urna Eletrônica!</p>
 A ideia é fazer um sistema sofisticado de Urnas Eletrônicas interconectadas o/
